@@ -9,6 +9,10 @@
       "url": "/about/"
     },
     {
+      "name": "Services",
+      "url": "/services/"
+    },
+    {
       "name": "Series",
       "url": "/series/"
     },
@@ -56,8 +60,8 @@
       "url": "/contact/"
     },
     {
-      "name": "Privacy Policy",
-      "url": "/privacy/"
+      "name": "Test",
+      "url": "/test/"
     }
   ]
 }

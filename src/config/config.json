@@ -1,14 +1,15 @@
 {
   "site": {
-    "title": "Bit Doze Astro Blog Theme",
-    "base_url": "https://example.com",
+    "title": "dragos blog",
+    "base_url": "https://dragosblog.com",
     "base_path": "/",
     "trailing_slash": true,
     "favicon": "/favicon.ico",
     "logo": "/logo.svg",
     "logo_width": "200",
     "logo_height": "30",
-    "logo_text": "Bit Doze Astro Blog Theme"
+    "logo_text": "dragos blog"
+    
   },
 
   "settings": {

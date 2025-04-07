@@ -1,9 +1,9 @@
 // Site configuration
 export const siteConfig = {
   // Site details
-  name: "Astro Blog Theme",
-  description: "A modern, responsive blog theme for Astro with support for tags, categories, and series.",
-  url: "https://example.com",
+  name: "Dragos Blog ",
+  description: "dragos blog",
+  url: "https://dragosblog.com",
   
   // Pagination settings
   postsPerPage: 10, // Number of posts per page
